@@ -10,3 +10,4 @@ Creating a new branch is quick & simple.
 this is a build doc
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
+add a merge branch
